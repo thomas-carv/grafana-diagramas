@@ -1,0 +1,10 @@
+
+cellIdPreamble: "cell-"
+
+cells:
+  ce01:
+    dataRef: "ROUTER"
+    fillColor:
+      thresholds:
+        - {color: "#ff0000", level: 0}
+        - {color: "#00ff00", level: 1}
