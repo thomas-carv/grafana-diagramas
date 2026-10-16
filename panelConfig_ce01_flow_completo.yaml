@@ -27,83 +27,83 @@ cells:
     dataRef: GRUPO_A_RX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_grupo_a_tx:
     dataRef: GRUPO_A_TX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_telium_rx:
     dataRef: TELIUM_RX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_telium_tx:
     dataRef: TELIUM_TX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_telium_tim_rx:
     dataRef: TELIUM_TIM_RX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_telium_tim_tx:
     dataRef: TELIUM_TIM_TX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_maxprint_rx:
     dataRef: MAXPRINT_RX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_maxprint_tx:
     dataRef: MAXPRINT_TX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_vsol_rx:
     dataRef: VSOL_RX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_vsol_tx:
     dataRef: VSOL_TX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_tca_780_rx:
     dataRef: TCA_780_RX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_tca_780_tx:
     dataRef: TCA_780_TX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_tca_781_rx:
     dataRef: TCA_781_RX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
   metric_tca_781_tx:
     dataRef: TCA_781_TX
     label:
       separator: none
-      units: none
+      units: bps
       decimalPoints: 1
